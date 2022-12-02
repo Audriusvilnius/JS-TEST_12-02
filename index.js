@@ -1,2 +1,1 @@
-console.log('w');
-console.log(5);
+console.log('Labas');
