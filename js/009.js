@@ -1,7 +1,7 @@
-console.log('9. Jei kintamieji skaičiai, grąžinti skaičių sumą, jei kintamieji masyvai - grąžinti masyvų ilgių sumą. Jei abu kintamieji skaičiai arba masyvai, bet suma nelyginė - grąžinti tekstą, kad suma nelyginė');
+console.log('9. Parašyti funkciją pirminisSkaicius. Funkcija turi vieną kintamąjį. Turi būti patikrinimas, kad kintamasis yra skaičius. Funkcija turi grąžinti ar pateiktas skaičius yra pirminis( pirmini skaičius yra tas, kuris dalinasi tik iš savęs ir tik iš vieneto be liekanos ');
 
 function Pirmin(num) {
-    if (typeof number == num){
+    if (typeof number == 'num'){
         return 'Ne numereris';
     }
     let s = 0;
